@@ -9,6 +9,7 @@
 ## Description
 - This is a project implementing a simple pocket calculator.
 - You can add, substract, divide or multiply numbers.
+- For this project, I followed this tutorial: https://www.youtube.com/watch?v=DgRrrOt0Vr8&t=1389s&ab_channel=WebDevSimplified
 
 ## Installation
 
